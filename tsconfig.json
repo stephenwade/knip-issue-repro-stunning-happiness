@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/cypress": ["./libs/cypress/index.ts"]
+    }
+  }
+}

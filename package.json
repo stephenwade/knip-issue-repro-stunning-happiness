@@ -1,0 +1,13 @@
+{
+  "name": "knip-issue-repro-stunning-happiness",
+  "version": "0.0.1",
+  "scripts": {
+    "knip": "knip"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.29",
+    "cypress": "^13.7.0",
+    "knip": "^5.1.2",
+    "typescript": "^5.4.2"
+  }
+}
